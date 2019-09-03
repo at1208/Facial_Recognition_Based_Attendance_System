@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './user_details.css'
+import Webcam from "react-webcam";
 
 class User extends Component{
   state = {
@@ -26,6 +27,8 @@ OnAddmissionInput = (e) => {
 }
 
   render(){
+
+
     return <div className='container'>
       <h1 className='text-center f1'>PLEASE ENTER YOUR DETAILS</h1>
       <div className='container-fluid'>
@@ -47,6 +50,9 @@ OnAddmissionInput = (e) => {
               <button className='btn v1'>Submit</button>
             </div>
 
+</div>
+<div className='  cam'>
+<Webcam />;
 </div>
 
     </div>
