@@ -1,0 +1,36 @@
+.f1{
+  font-size: 30px;
+  color: #C0392B;
+  background-color: #D6EAF8
+}
+.g1{
+  margin:10px;
+  width: 400px;
+  height: 150px;
+
+}
+
+.g2{
+  width: 160px;
+  margin-top: 3px;
+  color: white;
+  background-color: #3498DB
+}
+.g3{
+  margin-top: 2px;
+  height: 25px
+}
+.j1{
+
+  height: 30px;
+  background-color: #D6EAF8;
+
+}
+
+.v1{
+  color: white;
+  background-color: #C0392B  ;
+  width: 150px;
+  height: 40px;
+  margin-left: 125px;
+}
